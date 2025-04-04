@@ -1,0 +1,119 @@
+last updated: 13 december 2023
+federal circuit and family court of australia ision 2)
+fergus & fergus [2023] fedcfamc2f 1353
+orders
+the court orders that:  $1,700.00, and (b) the amount of money in aud which is equal to $25,000 usd at the date of payment. in the event that the husband converts usd to aud in order to make this payment, there is to be no deduction for any associated fees, charges or costs in respect of that conversion.   the amount of money in aud which is equal to $25,000 usd at the date of payment. in the event that the husband converts usd to aud in order to make this payment, there is to be no deduction for any associated fees, charges or costs in respect of that conversion.
+reasons for judgment
+judge betts
+overview
+the final hearing
+wife:  case outline document filed 23/06/23, (b) amended initiating application filed 29/05/23, (c) wife’s affidavit and financial statement both filed 29/05/23, (d) affidavit of the single expert business valuer, mr b, filed 23/06/23 (with leave).   amended initiating application filed 29/05/23, (c) wife’s affidavit and financial statement both filed 29/05/23, (d) affidavit of the single expert business valuer, mr b, filed 23/06/23 (with leave).   wife’s affidavit and financial statement both filed 29/05/23, (d) affidavit of the single expert business valuer, mr b, filed 23/06/23 (with leave).   affidavit of the single expert business valuer, mr b, filed 23/06/23 (with leave).
+husband:  case outline document filed 25/06/23 (which contained the husband’s proposed minute of order), (b) husband’s affidavit and amended financial statement both filed 29/05/23, (c) affidavit of the husband’s father mr c filed 17/10/22, (d) affidavit of the husband’s partner ms d filed 02/11/22.   husband’s affidavit and amended financial statement both filed 29/05/23, (c) affidavit of the husband’s father mr c filed 17/10/22, (d) affidavit of the husband’s partner ms d filed 02/11/22.   affidavit of the husband’s father mr c filed 17/10/22, (d) affidavit of the husband’s partner ms d filed 02/11/22.   affidavit of the husband’s partner ms d filed 02/11/22.
+i can’t remember what i did last week.
+the law
+the balance sheet
+assets
+item
+description
+value (w)
+value (h)
+value adopted
+1
+e pty ltd (h)
+$80,000
+2
+f street, suburb g (h) ***
+$490,000
+$133,672
+3
+nab account #...01 (w)
+$5,628
+4
+nab account #...16 (w)
+$7,340
+5
+nab account #...61 (w)
+$201,707
+6
+motor vehicle 1 (w)
+$11,000
+7
+motor vehicle 2 (h)
+$7,500
+8
+motor vehicle 3 (h)
+$4,000
+9
+motor vehicle 4 (h)
+$6,000
+10
+motor vehicle 5 (h)
+$ nil
+sub-total:
+$813,175
+add-backs
+11
+valuable items (h) ***
+$418,715
+12
+legal fees (h)
+$424,715
+liabilities
+13
+nab mortgage (h)
+$121,410
+14
+nab visa #...58 (h)
+$3,852
+15
+e pty ltd – loan from mr c (h) ***
+$70,000
+16
+moneys owed to ms h (h) ***
+$21,860
+$125,262
+superannuation
+17
+super fund 1 (w)
+$202,201
+19
+super fund 2 (h)
+$55,990
+$258,191
+item 2 – f street, suburb g:
+my father: “[mr fergus], there is some land for sale at [suburb g] which i was thinking we could buy together. i will pay the deposit and you can take out a loan and i will help you build a home. i will transfer the deposit into your account and you can purchase the property in your name. my suggestion is that you pay the mortgage and the rates. we will both contribute towards the cost of constructing a home. you can live in the property for twelve months because that will help us with capital gains tax. we can then sell the property and share the proceeds of sale in the proportions of the expense we have both paid to build the home and repay the mortgage.” me: “thanks dad, that’s very good of you.”
+a. i lent him the deposit and buying costs. i also went guarantor on the loan [mr fergus] took out with the nab to fund the initial purchase. c. i would then complete the build of the house on the property. at completion, [mr fergus] would obtain a mortgage against the property and pay me back any money i had invested in the build. e. when the property was sold, [mr fergus] and i would share equally in the profits.
+item 11 – the valuable items:
+relevant relationship history:
+purchase of the valuable item:
+serialised and comes with an assay certificate, guaranteeing weight, purity and origin. [8]
+storage arrangements for the valuable item:
+53. i asked [mr fergus]“to take the valuable items up to the safe at your dad’s?” [mr fergus] did not reply but simply smiled. knowing [mr fergus] so well, i interpreted his smile as a ‘yes’.
+i always wanted the valuable items with me.
+leadup to these property settlement proceedings:
+conduct of these proceedings:
+the company sold the valuable item. i haven’t got the money to pay it back.
+the company sold the valuable items to me. i haven’t got the money to pay the company back”.   emphasis)
+the valuable items go missing:
+me: i think you have been broken into. [mr fergus]: why? me: the door is wide open and there is stuff everywhere. i am too scared to go inside. [mr fergus]: just call the police.
+subsequent events:
+acct set up non-secured loan over valuable items purchase [2020] $418,715 direct fm bus 25 yrs if mortgage taken out repayments will place this client in unnecessary hardship marriage breakdown business slowed due to mental health break valuable items were stolen was purchased in name of director not company. should invoice be changed? 28 days for private ruling apply through tap per lady on phone (#...) ato receipt # ...
+hi [mr cc], attached is our response to your ethical letter regarding [e pty ltd] and [mr fergus]. ... i have not included a workpaper for division 7a or director’s loans as this amount was paid back in 2022 and there was no further action required. this can be seen in the quickbooks file. there is a fixed asset amount for valuable item which originally was recorded against a loan account but i believe it was purchased by the company. the valuable item has since been stolen and needs to be written off as a loss. ...
+as there is no paperwork provided we cannot establish that the ownership of this asset is that of the company ([e pty ltd] ), therefore we cannot claim a tax deduction for the write off despite the previous accountant ([ms v]), noting so, email below for file note. [mr fergus] has advised that this “valuable item” asset has gone missing and that it was not insured. treatment is to remove this as an asset to the company as we cannot establish ownership, and that asset is held with [mr fergus] on a personal nature, noting division 7a tax implications advised to [mr fergus] and that interest will be required in the next 12 months with minimum repayments also to be met.
+fraud?
+the truth is that, when the law requires the proof of any fact, the tribunal must feel an actual persuasion of its occurrence or existence before it can be found. it cannot be found as a result of a mere mechanical comparison of probabilities independently of any belief in its reality. no doubt an opinion that a state of facts exists may be held according to identified gradations of certainty, and this has led to attempts to define exactly the certainty required by law for various purposes... except upon criminal issues to be proved by the prosecution, it is enough that the affirmative of an allegation is made out to the reasonable satisfaction of the tribunal. but reasonable satisfaction is not a state of mind that is attained or established independently of the nature and consequence of the fact or facts to be proved. the seriousness of an allegation made, the inherent unlikelihood of an occurrence of a given description, or the gravity of the consequences flowing from a particular finding are considerations which must affect the answer to the question whether the issue has been proved to the reasonable satisfaction of the tribunal. in such matters “reasonable satisfaction” should not be produced by inexact proofs, indefinite testimony, or indirect inferences.
+waste?
+as a statement of general principle, i am firmly of the view that financial losses incurred by the parties or either of them in the course of a marriage whether such losses result from a joint or several liability, should be shared by them (although not necessarily equally) except in the following circumstances:   where one of the parties had embarked upon a course of conduct designed to reduce or minimise the effective value or worth of matrimonial assets, or (b) where one of the parties has acted recklessly, negligently or wantonly with matrimonial assets, the overall effect of which has reduced or minimised their value.   where one of the parties has acted recklessly, negligently or wantonly with matrimonial assets, the overall effect of which has reduced or minimised their value.
+item 15 – loan from husband’s father ($70,000): e bank statement annexure ‘g’ was tendered as exhibit 15. the narration for the $35,000 advance is “loan [mr c]”, and narration for the $20,000 and $15,000 transactions are “[mr fergus] loan [mr c] ”.]
+item 16 – loan from ms h
+contributions of the parties
+initial contributions:
+contributions during the marriage:
+post-separation contributions:
+other matters arising pursuant to section 79 including future factors
+the just & equitable requirement
+i am satisfied that the unstated assumptions underpinning the parties’ relationships were that during the relationship they were each free to deal with their assets as they chose to do so. they gave effect to that assumption during the relationship. the parties did not intermingle their financial affairs and did not conduct a joint personal bank account. they held and dealt with their real property, being their single biggest asset, free of consultation or consideration of what the other party may have thought was appropriate to do. the respondent had the benefit of occupation of the applicant’s home rent free whilst making her home available for use to her son. her children lived in the applicant’s home for periods of time. there is no presumption that following the breakdown of a relationship lasting 15 years that an order should be made adjusting the parties’ legal and equitable interests in the property. there must be a principled basis for doing so, arising out of how the parties conducted their relationship. i am not satisfied that one has been established. i am not satisfied that it is just and equitable to make an order. the wife in moretto appealed unsuccessfully (cosola & moretto [2023] fedcfamc1a 61). to take on the words from stanford, there is no “principled reason” for the court to now interfere with how these parties chose to live their married life together, whether in respect of superannuation, or non-superannuation. the “unstated” or “implicit assumptions” between these two parties was they would keep their finances separate – this is no more obvious than the fact that the wife has managed to accumulate savings, in her own name, in the amount of about $225,000.
+conclusion & orders
+associate: dated: 20 october 2023
+dated: 20 october 2023
+[1] in his proposed orders, the husband sought a declaration in slightly different terms, namely that he held a 25% beneficial interest, with his father holding the other 75%. the difference does not matter on my analysis of the case.[2] mr c’s sister bought the block, mr c built a house on it, his sister paid for the build and when the block was later sold mr c and his sister divided the profits equally. [3] wife’s affidavit, paragraph 57[4] wife’s affidavit, paragraphs 56 & 58[5] this was of course the husband’s alternative position. the husband’s primary position – based on his own evidence – was that the husband held a 27.28% beneficial interest and [mr c] held the other 72.72%.[6] see bosanac v commissioner for taxation & anor [2022] hca 34[7] mr weightman took this definition from meagher, gummow & lehane’s equity doctrines & remedies, 5th edition (2015).[8] exhibit 2[9] see [44] of these reasons[10] exhibit 5[11] husband’s affidavit, paragraph 83[12] exhibit 3. these are annexure ‘c’ to the husband’s affidavit.[13] exhibit 4[14] exhibit 16[15] exhibit 16[16] wife’s affidavit, paragraph 160[17] exhibit 6[18] the wife’s unqualified opinion puts it at $2,000[19] wife’s affidavit, paragraph 26[20] exhibit 9[21] exhibit 10[22] ibid.[23] husband’s affidavit, paragraph 37, which is consistent with what the husband told the single expert [24] dividend figures are drawn from exhibit 12

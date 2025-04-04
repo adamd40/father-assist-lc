@@ -1,0 +1,153 @@
+last updated: 23 september 2022
+federal circuit and family court of australia ision 2)
+day & jacobsen [2022] fedcfamc2f 1163
+orders
+the court orders that:
+reasons for judgment
+judge newbrun:
+introduction
+material relied upon  case outline filed 3 august 2022, (b) amended initiating application filed 25 october 2021, (c) financial statement filed 3 august 2022, (d) three affidavits filed 4 september 2019, 27 september 2019, and 15 may 2022.   amended initiating application filed 25 october 2021, (c) financial statement filed 3 august 2022, (d) three affidavits filed 4 september 2019, 27 september 2019, and 15 may 2022.   financial statement filed 3 august 2022, (d) three affidavits filed 4 september 2019, 27 september 2019, and 15 may 2022.   three affidavits filed 4 september 2019, 27 september 2019, and 15 may 2022.   case outline filed 3 august 2022, (b) amended response to initiating application filed 19 november 2021, (c) his affidavit filed 22 january 2022, (d) his financial statement filed 22 january 2022.   amended response to initiating application filed 19 november 2021, (c) his affidavit filed 22 january 2022, (d) his financial statement filed 22 january 2022.   his affidavit filed 22 january 2022, (d) his financial statement filed 22 january 2022.   his financial statement filed 22 january 2022.   exhibit a: applicant’s medical documents, (b) exhibit b: joint balance sheet, (c) exhibit c: before cohabitation balance sheet, (d) exhibit d: respondent’s tender bundle of documents.   exhibit b: joint balance sheet, (c) exhibit c: before cohabitation balance sheet, (d) exhibit d: respondent’s tender bundle of documents.   exhibit c: before cohabitation balance sheet, (d) exhibit d: respondent’s tender bundle of documents.   exhibit d: respondent’s tender bundle of documents.
+evidence
+applicant’s application for a declaration that, being a party to a de facto relationship, she made substantial contributions of a kind mentioned in paragraph 90 sm(4)(a), (b), or (c), and that a failure to make the declaration would result in serious injustice to her
+a court may make an order under section 90se, 90sg or 90sm, or a declaration under section 90sl, in relation to a de facto relationship only if the court is satisfied:   that the period, or the total of the periods, of the de facto relationship is at least 2 years, or (b) that there is a child of the de facto relationship, or (c) that:  the party to the de facto relationship who applies for the order or declaration made substantial contributions of a kind mentioned in paragraph 90sm(4)(a), (b) or (c), and (ii) a failure to make the order or declaration would result in serious injustice to the applicant, or   that the relationship is or was registered under a prescribed law of a state or territory.   in considering what order (if any) should be made under this section in property settlement proceedings, the court must take into account:   the financial contribution made directly or indirectly by or on behalf of a party to the de facto relationship, or a child of the de facto relationship:  to the acquisition, conservation or improvement of any of the property of the parties to the de facto relationship or either of them, or (ii) otherwise in relation to any of that last-mentioned property, whether or not that last-mentioned property has, since the making of the contribution, ceased to be the property of the parties to the de facto relationship or either of them, and   the contribution (other than a financial contribution) made directly or indirectly by or on behalf of a party to the de facto relationship, or a child of the de facto relationship:   the contribution made by a party to the de facto relationship to the welfare of the family constituted by the parties to the de facto relationship and any children of the de facto relationship, including any contribution made in the capacity of homemaker or parent.
+17. what is meant by the term “substantial contributions”? the full court of the family court of australia in redmond & mullins cited and affirmed the following view of holden cj in v & k:
+in my view, substantial means something more than usual or ordinary. in my view [the section] is aimed at more exceptional circumstances where serious injustice may be caused by the application of [the relevant provision].
+18. johnston j addressed substantial contributions in wall & mitchell. after referring to the decisions of miller & trent and v & k he said:  3] with respect to both coates fm and holden cj, i agree. if usual or ordinary contributions were sufficient to amount to “substantial contributions” within the meaning of s 90sb(c) , there would be little purpose in the two years requirement in s 90sb(a) of the act. this is because in most de facto relationships to some extent usual or ordinary contributions would be a feature of such relationships.
+19. the full court decision in harriot & arena is instructive in considering the meaning of “substantial contributions”:
+59. if the appellant’s contribution of the net proceeds of her home constituted a “substantial” contribution, it will be unnecessary for us to determine the somewhat more vexed question of whether the actions taken by the appellant in relation to her career and her child should be characterised as “contributions”. 60. the trial judge made no finding as to whether the appellant’s contributions were “substantial”. however, he did record that the appellant relied on the decision of altobelli fm (as his honour then was) in webb & douglas [2012] fmcafam 1049 to support the assertion that “substantial” means “something more than usual or ordinary”, this being the view of holden cj in v and k [2005] fcwa 80 when dealing with equivalent legislation. (holden cj’s formulation has been followed in other cases, some of which were cited by watts j in lee v hutton [2013] famca 745, (2013) 50 fam lr 322 at [180]–[182]). 61. rather than agreeing with holden cj, it seems to us that altobelli fm disagreed with him, as appears from this extract from webb & douglas (original emphasis):
+21. the cases therefore seem to suggest that before a contribution can be substantial, it must be more than usual or ordinary. this is a vague and subjective standard. in the diversity of relationships that present before courts exercising jurisdiction under the family law act how is “usual” or “ordinary” to be determined other than by reference to the facts of the case before the court at the time? how could a judicial officer make the comparisons that need to be made by using this standard without referring to extrinsic evidence ie. the judicial officer’s own perception of contribution in other cases? 22. by contrast it is interesting to note that fm coates in miller & trent referred to dictionary definitions of “substantial” at paragraph 59 of his judgment. he noted, for example, that the macquarie encyclopaedic dictionary defined substantial as “an ample or considerable amount as well as something having real worth or value”. his honour also referred to the concise oxford dictionary meaning of “having real importance or value and to a considerable amount”. federal magistrate coates also referred to a family provision act (1982) (nsw) decision in wentworth & wentworth (1995) 37 nswlr 703 where the court held that substantial “means not illusory, something considerable or large”. 23. whereas the v & k and miller & trent definition of substantial invite comparison to other cases, the dictionary definitions invite a more contextual analysis. in other words the question is whether the contribution is substantial in the context of the case being determined, and not by reference to other cases.
+62. while altobelli fm erroneously assumed in webb & douglas that a court could have jurisdiction to deal with a de facto property dispute where it was common ground that neither s 90sk(1)(a) or s 90sk(1a) had been satisfied, his honour’s discussion draws attention to deficiencies in the “something more than usual or ordinary” formulation. noting that the matter was not the subject of proper argument, as presently advised we are not attracted to the “something more than usual or ordinary” definition, since it would, for example, seem to exclude parent and homemaker contributions in a lengthy marriage. this could not be right, as holden cj implicitly acknowledged at [20]–[21] in v and k. we would therefore be inclined to treat anything said in v and k as being confined to its own unusual facts, which involved two self-represented litigants, and where the issue was whether “substantial contributions” had been made in the 22 days the parties spent living in western australia. 63. to the best of our knowledge, the meaning of “substantial contributions” has not been the subject of careful consideration by this full court, although the matter was touched on in redmond & mullins [2015] famcafc 69, where v and k was cited. however, the meaning of “substantial” has been the subject of much discussion by other courts. our review of those authorities indicates support for these observations of deane j in tillmans butcheries pty ltd v the australasian meat industry employees’ union [1979] fca 85, (1979) 27 alr 367 at 382:
+the word “substantial” is not only susceptible of ambiguity: it is a word calculated to conceal a lack of precision. in the phrase “substantial loss or damage”, it can, in an appropriate context, mean real or of substance as distinct from ephemeral or nominal. it can also mean large, weighty or big. it can be used in a relative sense or can indicate an absolute significance, quantity or size. the difficulties and uncertainties which the use of the word is liable to cause are well illustrated by the guidance given by viscount simon in palser v grinling (...[1948] ac 291 at 317) where, after holding that, in the context there under consideration, the meaning of the word was equivalent to “considerable, solid or big”, he said: “applying the word in this sense, it must be left to the discretion of the judge of fact to decide as best he can according to the circumstances of each case...
+64. clearly the “substantial contributions” test is a subjective one. any effort to elucidate its meaning by use of other words or phrases will simply replace one subjective test with another. it will remain a matter of impression whether the contributions are considered to be “substantial”. while recognising that the test is subjective, we are nevertheless inclined to agree with thackray j, who said in thorburn and oswald [2007] fcwa 43 at [54] that a trial judge
+would need to interpret the word “substantial” in the context of the financial position of the parties. what might appear to be a “substantial contribution” for people of limited financial resources, might not be substantial in a case involving very wealthy parties.
+65. to like effect, see oakley and roche [2009] fcwa 132 at [15] per crisford j. 66. as noted, the trial judge made no finding as to whether the appellant’s submissions [sic] were “substantial”. we consider that the contribution of $80,000 from the sale of the appellant’s home was “substantial”, and we note that the respondent effectively conceded as much, since his counsel accepted that the application of those funds in vanuatu represented a “substantial” contribution. that being the case, it is unnecessary for us to come to a concluded view about the other “contributions” upon which the appellant relied.  otnotes omitted)   the respondent’s cash assets.
+mr tees: if we take you to where you summarise all the — or attempt to summarise all the payments you talk about...transactions at paragraph 69 of your affidavit of 22 january...how are you able to distinguish between items paid on your behalf such as groceries, alcohol and tobacco and other moneys that you say are in effect reimbursed to ms [[day]] by you? how do you distinguish between all those items in all the different various bank statements? is there any one item you can point to me where it is clear what the payment was for? mr jacobsen: well no not really, it would be hard to say what it was for at the time. mr tees: sorry, could you just repeat that? the court: “it is hard to say what it was for at the time.” mr tees: so you say that in respect of quite a lot of the items you refer to at paragraph 69 in your affidavit and also in respect of quite a number of the transfers in your westpac bank statement, is that correct? mr jacobsen: correct.   the respondent’s property at b street, town c.
+the applicant assisted the respondent to clean up the b street, town c property (purchased by the respondent in january 2018) and was aided by her friend ms j, several loads of rubbish were taken to the tip.   the parties’ animals (horses and domestic pets), during the parties’ relationship, by providing care for them.
+in respect to the substantial contributions and serious injustice issues referred to above, the court observes and takes into account, inter alia, that the applicant and the respondent have been persons of modest financial means and assets, that the applicant owned the real estate property at town h at the commencement of the parties’ relationship being her only significant asset, that the town h property was sold by the applicant during the parties’ relationship with the net proceeds of sale ($51,575) being paid to the respondent, and with only $10,000 effectively being repaid to her through $10,000 having been paid by the respondent to her daughter. the applicant now owns no real estate, no significant cash assets, and otherwise owns assets of very modest value.
+property adjustment
+legal principles: property adjustment
+281. the approach to the determination of an application under s 79 of the act is set out in stanford v stanford [2012] hca 52, (2012) 247 clr 108 and further considered by the full court in bevan & bevan [2014] famcafc 19, chapman & chapman (2014) flc 93–592 and scott & danton [2014] famcafc 203. 282. the court must identify the existing legal and equitable interests of the parties in the property, the liabilities and financial resources of the parties at the time of the hearing and then whether it is just and equitable to make a property settlement order. 283. such a consideration should not be guided by an assumption that the parties’ rights to or interests in property are or should be different from those that then exist. the question is whether those rights and interests should be altered. 284. there is no presumption that one or other party has the right to have the property of the parties divided between them or a right to an interest in marital property that is fixed by reference to the various matters in s 79(4). the court needs to conclude that it would be unjust or unfair to leave property rights intact under s 79(2) of the act. 285. in many cases this requirement is readily satisfied where the parties are no longer in a marital or de facto relationship and, thus, for example, the common ownership or use of property by de facto husband and wife will no longer be possible or the express or implicit assumptions that underpinned existing property arrangements such as the accumulation of assets or financial resources by one for the benefit of both have been brought to an end with the relationship. 286. in particular, such a circumstance arises where both parties seek property adjustment orders but are unable to agree as to same. here the de facto wife seeks an order for adjustment of property and the de facto husband contends that there should be no such adjustment. 287. it is thus important to ascertain the present property and resources of the parties so as to facilitate a consideration of the s 79(2) question. 288. in some circumstances it is not possible to determine whether it is just and equitable to make adjustment orders as to the parties’ present property rights without a consideration of s 79 (4) matters. 289. section 79(4) requires a consideration of the contributions made by the parties as defined in s 79(4)(a) to (c). the court must then consider s 79(4)(d) to (g) in particular the subjective considerations as to the parties by having regard to the provisions of s 75(2) in so far as they are relevant (s 79(4)(e)). 290. the court can then consider the “justice and equity” of the actual orders to be made: russell & russell (1999) flc 92–877, teal & teal [2010] famcafc 120, in the context of the court’s obligation to make “appropriate orders” as provided for in s 79(1) of the act.
+balance sheets
+before cohabitation balance sheet
+agreed value
+assets
+ownership
+description
+1
+applicant
+town h property
+$35,000
+2
+motor vehicle 1
+$2,800
+3
+motor vehicle 2
+$8000
+4
+caravan
+$1000
+5
+horse float
+$13,000
+6
+3 horses / animals
+$5000
+7
+ride on lawn mower
+$200
+8
+6x4 box trailer
+$400
+9
+personal possessions + super fund k + tools
+$11,360
+10
+remainder cash from estate of ms l (after vehicle purchases)
+$236,000
+11
+m street, town n (40% share)
+$47,270
+12
+motor vehicle 3
+$40,000
+13
+motorbike
+$27,000
+14
+2 trailers
+$2,200
+15
+$8,000
+16
+bank o account
+300
+wife assets
+$76,760
+husband assets
+$360,770
+liabilities
+17
+centrelink debt
+$67,000
+18
+income tax liability
+$4,000
+19
+electrical bill debt
+$7,382
+applicant liabilities
+$78,382
+respondent liabilities
+$0
+overall position applicant
+$1,622)
+overall position respondent
+at/after separation balance sheet
+item
+bike
+$2,500
+westpac basic account ...99
+nab classic banking account ...45
+$319
+animals
+$1,250
+livestock – 4 horses
+$10,000
+horse rugs and equipment
+$3,000
+garden tools and agricultural fencing
+trailers x2
+sheds x2
+$6,000
+b street, town c
+$80,000
+$25,000
+$14,000
+mobile home
+$55,000
+bank accounts – bank o
+$376
+westpac bank account
+$2,326
+tractor
+trailer
+applicant assets
+$35,869
+respondent assets
+$206,702
+$60,000
+20
+21
+$71,382
+$35,513   that the above liabilities of the applicant did not arise out of the parties’ de facto relationship (indeed they were liabilities of the applicant pre-existing the commencement of the parties’ relationship) and should be removed from the at/after separation balance sheet, (b) the following assets should be removed from the at/after separation balance sheet because they were probably acquired by the applicant or the respondent after the parties’ separation and do not relate to the parties’ former relationship (and with the court observing that there is no significant evidence by the applicant or the respondent that such assets were acquired by them during the parties’ relationship): (i) bike, $2,500, (ii) nab classic banking account, $319, (iii) livestock – four horses (and noting that the applicant alleges that two horses were sold in 2018), (iv) horse rugs and equipment, $3,000, (v) garden tools and agricultural fencing, $10,000 (and noting that the applicant alleges that her tools, $6,000, were retained by the respondent, which the court does not accept), (vi) trailers (2), $2,800, (vii) sheds (2), $6,000, (viii) bank o bank account, $376, (ix) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.   the following assets should be removed from the at/after separation balance sheet because they were probably acquired by the applicant or the respondent after the parties’ separation and do not relate to the parties’ former relationship (and with the court observing that there is no significant evidence by the applicant or the respondent that such assets were acquired by them during the parties’ relationship): (i) bike, $2,500, (ii) nab classic banking account, $319, (iii) livestock – four horses (and noting that the applicant alleges that two horses were sold in 2018), (iv) horse rugs and equipment, $3,000, (v) garden tools and agricultural fencing, $10,000 (and noting that the applicant alleges that her tools, $6,000, were retained by the respondent, which the court does not accept), (vi) trailers (2), $2,800, (vii) sheds (2), $6,000, (viii) bank o bank account, $376, (ix) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.   bike, $2,500, (ii) nab classic banking account, $319, (iii) livestock – four horses (and noting that the applicant alleges that two horses were sold in 2018), (iv) horse rugs and equipment, $3,000, (v) garden tools and agricultural fencing, $10,000 (and noting that the applicant alleges that her tools, $6,000, were retained by the respondent, which the court does not accept), (vi) trailers (2), $2,800, (vii) sheds (2), $6,000, (viii) bank o bank account, $376, (ix) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.  ) nab classic banking account, $319, (iii) livestock – four horses (and noting that the applicant alleges that two horses were sold in 2018), (iv) horse rugs and equipment, $3,000, (v) garden tools and agricultural fencing, $10,000 (and noting that the applicant alleges that her tools, $6,000, were retained by the respondent, which the court does not accept), (vi) trailers (2), $2,800, (vii) sheds (2), $6,000, (viii) bank o bank account, $376, (ix) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.  i) livestock – four horses (and noting that the applicant alleges that two horses were sold in 2018), (iv) horse rugs and equipment, $3,000, (v) garden tools and agricultural fencing, $10,000 (and noting that the applicant alleges that her tools, $6,000, were retained by the respondent, which the court does not accept), (vi) trailers (2), $2,800, (vii) sheds (2), $6,000, (viii) bank o bank account, $376, (ix) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.  ) horse rugs and equipment, $3,000, (v) garden tools and agricultural fencing, $10,000 (and noting that the applicant alleges that her tools, $6,000, were retained by the respondent, which the court does not accept), (vi) trailers (2), $2,800, (vii) sheds (2), $6,000, (viii) bank o bank account, $376, (ix) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.   garden tools and agricultural fencing, $10,000 (and noting that the applicant alleges that her tools, $6,000, were retained by the respondent, which the court does not accept), (vi) trailers (2), $2,800, (vii) sheds (2), $6,000, (viii) bank o bank account, $376, (ix) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.  ) trailers (2), $2,800, (vii) sheds (2), $6,000, (viii) bank o bank account, $376, (ix) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.  i) sheds (2), $6,000, (viii) bank o bank account, $376, (ix) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.  ii) bank o bank account, $376, (ix) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.  ) westpac bank account, $2,326, (x) tractor, $10,000, (xi) trailer, $10,000.   tractor, $10,000, (xi) trailer, $10,000.  ) trailer, $10,000.
+asset
+respondent
+total
+$185,250
+section 90sm(3) of the act
+contributions  the respondent received the sale proceeds of the applicant’s motor vehicle 1, motor vehicle 2, lawn mower, 6x4 trailer, as alleged by the applicant, (b) the applicant did not receive monies (from the respondent) for the sale of the applicant’s caravan to mr q, (c) the respondent received the sale proceeds of the applicant’s two horses sold for $500 each, (d) the applicant provided significant care for the respondent during their relationship, despite her being receiving a carer’s pension for him, (e) the applicant took $6,000 cash that the respondent had received from mr r, at separation, (f) the applicant took the respondent’s horse float and sold it for $10,000, (g) the respondent retained or converted to his use the applicant’s tools ($6,000), shipping containers, or personal household effects.   the applicant did not receive monies (from the respondent) for the sale of the applicant’s caravan to mr q, (c) the respondent received the sale proceeds of the applicant’s two horses sold for $500 each, (d) the applicant provided significant care for the respondent during their relationship, despite her being receiving a carer’s pension for him, (e) the applicant took $6,000 cash that the respondent had received from mr r, at separation, (f) the applicant took the respondent’s horse float and sold it for $10,000, (g) the respondent retained or converted to his use the applicant’s tools ($6,000), shipping containers, or personal household effects.   the respondent received the sale proceeds of the applicant’s two horses sold for $500 each, (d) the applicant provided significant care for the respondent during their relationship, despite her being receiving a carer’s pension for him, (e) the applicant took $6,000 cash that the respondent had received from mr r, at separation, (f) the applicant took the respondent’s horse float and sold it for $10,000, (g) the respondent retained or converted to his use the applicant’s tools ($6,000), shipping containers, or personal household effects.   the applicant provided significant care for the respondent during their relationship, despite her being receiving a carer’s pension for him, (e) the applicant took $6,000 cash that the respondent had received from mr r, at separation, (f) the applicant took the respondent’s horse float and sold it for $10,000, (g) the respondent retained or converted to his use the applicant’s tools ($6,000), shipping containers, or personal household effects.   the applicant took $6,000 cash that the respondent had received from mr r, at separation, (f) the applicant took the respondent’s horse float and sold it for $10,000, (g) the respondent retained or converted to his use the applicant’s tools ($6,000), shipping containers, or personal household effects.   the applicant took the respondent’s horse float and sold it for $10,000, (g) the respondent retained or converted to his use the applicant’s tools ($6,000), shipping containers, or personal household effects.   the respondent retained or converted to his use the applicant’s tools ($6,000), shipping containers, or personal household effects.
+section 90sf(3)
+the applicant’s proposed order for the return of certain animals
+justice and equity
+associate: dated: 30 august 2022
+dated: 30 august 2022

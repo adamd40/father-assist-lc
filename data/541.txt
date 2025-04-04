@@ -1,0 +1,146 @@
+last updated: 23 september 2022
+federal circuit and family court of australia ision 2)
+brannon & brannon [2022] fedcfamc2f 1116
+orders
+the court orders that:
+reasons for judgment
+judge boyle
+introduction
+the law  subject to subsection (1a), a financial agreement is binding on the parties to the agreement if, and only if:   the agreement is signed by all parties, and (b) before signing the agreement, each spouse party was provided with independent legal advice from a legal practitioner about the effect of the agreement on the rights of that party and about the advantages and disadvantages, at the time that the advice was provided, to that party of making the agreement, and (c) either before or after signing the agreement, each spouse party was provided with a signed statement by the legal practitioner stating that the advice referred to in paragraph (b) was provided to that party (whether or not the statement is annexed to the agreement), and (ca) a copy of the statement referred to in paragraph (c) that was provided to a spouse party is given to the other spouse party or to a legal practitioner for the other spouse party, and (d) the agreement has not been terminated and has not been set aside by a court.
+note: for the manner in which the contents of a financial agreement may be proved, see section 48 of the evidence act 1995. (1a) a financial agreement is binding on the parties to the agreement if:   the agreement is signed by all parties, and (b) one or more of paragraphs (1)(b), (c) and (ca) are not satisfied in relation to the agreement, and (c) a court is satisfied that it would be unjust and inequitable if the agreement were not binding on the spouse parties to the agreement (disregarding any changes in circumstances from the time the agreement was made), and (d) the court makes an order under subsection (1b) declaring that the agreement is binding on the parties to the agreement, and (e) the agreement has not been terminated and has not been set aside by a court.  ) for the purposes of paragraph (1a)(d), a court may make an order declaring that a financial agreement is binding on the parties to the agreement, upon application (the enforcement application) by a spouse party seeking to enforce the agreement. (1c) to avoid doubt, section 90ka applies in relation to the enforcement application. (2) a court may make such orders for the enforcement of a financial agreement that is binding on the parties to the agreement as it thinks necessary.
+documents relied on  amended initiating application filed 27 august 2020. (b) affidavit of ms brannon filed 3 august 2021. (c) financial statement of wife filed 3 august 2021. (d) tender bundle.   affidavit of ms brannon filed 3 august 2021. (c) financial statement of wife filed 3 august 2021. (d) tender bundle.   financial statement of wife filed 3 august 2021. (d) tender bundle.   tender bundle.   response filed 17 march 2020. (b) affidavit of husband filed 3 august 2021. (c) affidavit of mr c filed 3 august 2021. (d) updated financial statement of husband filed 3 august 2021.   affidavit of husband filed 3 august 2021. (c) affidavit of mr c filed 3 august 2021. (d) updated financial statement of husband filed 3 august 2021.   affidavit of mr c filed 3 august 2021. (d) updated financial statement of husband filed 3 august 2021.   updated financial statement of husband filed 3 august 2021.
+issues  whether the financial agreement entered into by parties on 30 june 2005 is binding pursuant to s90g. (b) whether before signing the agreement, the wife was provided with independent legal advice about the effect of the agreement on her rights and about the advantages and disadvantages, at the time that the advice was provided, of making the agreement. (c) if the agreement is found to be binding, whether it should be set aside pursuant to section 90k. (d) whether it is appropriate to make an order for litigation funding in favour of the wife. (e) whether it is appropriate to make an order for spousal maintenance in favour of the wife.   whether before signing the agreement, the wife was provided with independent legal advice about the effect of the agreement on her rights and about the advantages and disadvantages, at the time that the advice was provided, of making the agreement. (c) if the agreement is found to be binding, whether it should be set aside pursuant to section 90k. (d) whether it is appropriate to make an order for litigation funding in favour of the wife. (e) whether it is appropriate to make an order for spousal maintenance in favour of the wife.   if the agreement is found to be binding, whether it should be set aside pursuant to section 90k. (d) whether it is appropriate to make an order for litigation funding in favour of the wife. (e) whether it is appropriate to make an order for spousal maintenance in favour of the wife.   whether it is appropriate to make an order for litigation funding in favour of the wife. (e) whether it is appropriate to make an order for spousal maintenance in favour of the wife.   whether it is appropriate to make an order for spousal maintenance in favour of the wife.
+background
+waiver of privilege
+what brings about the waiver is the inconsistency, which the courts, where necessary informed by consideration of fairness, perceive, between the conduct of the client and maintenance of the confidentiality, not some overriding principle of fairness operating at large.
+credit
+“...i have more money than i know what to do with these days...i want us both to feel financially free, not just me...if i buy you an [motor vehicle 4] it will cost me over $100,000. i will put it in your name. i hope it will show you that i am committed to you and that i will do everything i can to make you happy. i can pay for a cleaner to come in once a week...”[4]
+this is entirely inconsistent with the husband’s sworn evidence about his financial position.
+wife’s legal advice
+you won't be able to get spousal maintenance. if you stop work to have kids, you're not going to have any claim on the business [mr brannon] has now. you won't have any income and will have to be out of the house in three months.
+this agreement relates to all property and financial resources of each of the parties and in relation to spouse maintenance of each of the parties during and after the relationship or marriage.
+each of the parties has received separate legal advice before executing this agreement concerning the following matters, that is to say: (a) the effect of this agreement upon the rights of each of the parties to apply for orders under the family law act and the family provision act in respect of the property and spousal maintenance and the effect of this agreement upon the rights of each party to make an application in relation to the other party’s estate or notional estate upon the death of the other, (b) whether or not it is to the advantage, financially or otherwise, of each party to enter into this agreement, (c) whether or not in the light of these present circumstances that the provisions of this agreement are fair and reasonable.
+the fact that there is difficulty in proving something within the knowledge of only the other party and their solicitor does not mean the legal burden of proof passes to the party who seeks not to be bound by the agreement. ... the full court regarded the provision of the certificate signed by the other party’s solicitor as requiring the other party to adduce evidence which would disprove, or at least throw into doubt, the inference or conclusion to be drawn from the certificate (especially when read with the recital in the agreement to the same effect).[10]
+section 90k
+balance sheet
+ownership
+description
+applicants value
+respondents value
+assets
+1.
+w
+m street, suburb n
+$ 790,000
+$ 1,200,000
+2.
+company o ($66,000 stock, car $25,000, less cba business loan $10,834)
+$ 80,166
+3.
+h
+p street, suburb e nsw
+$ 4,000,000
+e$ 1,800,000
+4.
+business at suburb f (land value)
+$ 1,600,000
+e$ 600,000
+5.
+business at suburb j (land value)
+$ 2,500,000
+e$ 978,000
+7.
+automotive business
+$ nk
+8.
+sports car 1
+$ 470,000
+e$ 450,000
+9.
+motor vehicle 2
+$ 134,000
+e$ 134,000
+11.
+home built race car
+$ 30,000
+e$ 30,000
+12.
+motor vehicle 5
+$ 6,000
+e$ 6,000
+13.
+motor vehicle 6
+$ 50,000
+$ nil
+14.
+motor vehicle 3
+$ 110,000
+e$ 80,000
+15.
+motor vehicle 7
+$ 12,000
+16.
+cash held by husband (estimated at)
+$ 200,000
+e$ 1,500
+17
+wife’s crypto currency
+$ 7,230
+$ 31,230
+18
+wife’s cash at bank
+$ 8,000
+19.
+husband’s cash at bank
+$ 7,000
+20.
+j
+contents of p street, suburb e nsw (in husband’s possession)
+$ 20,000
+e$ 10,000
+17.
+furniture and contents
+$ 2,000
+total
+$ 10,026,396
+e$ 5,410,896
+addbacks
+18.
+proceeds from sale of sports car 1– sold 2020
+$ 140,920
+proceeds from sale motor vehicle 8
+$ 48,142
+nil
+proceeds of sale –k street, suburb l nsw
+$ 705,000
+legal fees paid by husband
+$ 47,000
+$ 894,062
+liabilities
+21.
+loan secured over m street, suburb n
+$ 388,000
+22.
+virgin money visa
+$ 16,427
+23.
+cba visa
+$ 4,661
+$ 404,427
+$ 0
+superannuation
+member
+name of fund
+type of interest
+25.
+super fund q
+$ 241,968
+26.
+$
+litigation funding  property at p street, suburb e: $1,800,000, (b) business at suburb f (land value): $600,000, (c) business at suburb j (land value): $978,000, (d) sports car 1 motor vehicle: $450,000, (e) motor vehicle 2: $134,000 (f) home built race car: $30,000, (g) motor vehicle 3: $80,000.   business at suburb f (land value): $600,000, (c) business at suburb j (land value): $978,000, (d) sports car 1 motor vehicle: $450,000, (e) motor vehicle 2: $134,000 (f) home built race car: $30,000, (g) motor vehicle 3: $80,000.   business at suburb j (land value): $978,000, (d) sports car 1 motor vehicle: $450,000, (e) motor vehicle 2: $134,000 (f) home built race car: $30,000, (g) motor vehicle 3: $80,000.   sports car 1 motor vehicle: $450,000, (e) motor vehicle 2: $134,000 (f) home built race car: $30,000, (g) motor vehicle 3: $80,000.   motor vehicle 2: $134,000 (f) home built race car: $30,000, (g) motor vehicle 3: $80,000.   home built race car: $30,000, (g) motor vehicle 3: $80,000.   motor vehicle 3: $80,000.
+total: $4,072,000.
+spouse maintenance
+conclusion
+associate: dated: 23 august 2022
+dated: 23 august 2022
+[1] hoult & hoult [2013] famcafc 109, [60]-[62].[2] page 1354 of the court book. [3] husband’s affidavit annexure c1, page 267 of the court book[4] wife’s tender bundle, page 65. [5] husband’s affidavit filed 3 august 2021, annexure “a”.[6] husband’s affidavit filed 3 august 2021, annexure ‘a’[7] husband’s affidavit annexure ‘d’ page 407 of the court book.[8] exhibit w12. [9] logan & logan [2013] famcafc 151[10] hoult & hoult [2013] famcafc 109, at [61].[11] kaimal & kaimal [2020] famca 971[12] wife's exhibit 11.[13] shelbourne & shelbourne [2019] famcafc 196 at 17.[14] zschokke & zschokke [1996] famca 79; (1996) flc 92-693 (“zschokke”) at 83,217; strahan & strahan (interim property orders) [2011] famcafc 126; (2011) flc 93-466 (“strahan”) at 85,633. [15] strahan at 85,633.[16] zschokke at 83,217; strahan at 85,633; klearchos & klearchos [2015] famcafc 217.[17] strahan at 85,633.[18] iphostrou & iphostrou and ors [2011] famca 20. [19] strahan at [132]-[137]. [20] exhibit w2.[21] section 72(1) family law act 1975
