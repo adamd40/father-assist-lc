@@ -42,7 +42,7 @@ This project leverages LangChain and LangSmith as the core RAG (Retrieval-Augmen
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/father-assist-lc.git
+git clone https://github.com/adamd40/father-assist-lc.git
 cd father-assist-lc
 ```
 
